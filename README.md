@@ -15,7 +15,8 @@ This Power BI project explores crime against women trends in India from 2001 to 
 
 ## 🗺️ Visualizations:
 ![Sample Chart](screenshots/top_states.png)
-*(Include 1-2 screenshots of your visuals)*
+*<img width="1345" height="762" alt="Screenshot 3" src="https://github.com/user-attachments/assets/1b0a8699-b85e-4496-ba34-85fb91fa85c6" />
+
 
 ## 📁 Files
 - `Crime_2001-2014.pbix`: Power BI Dashboard file
